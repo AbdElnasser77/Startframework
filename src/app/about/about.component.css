@@ -1,0 +1,6 @@
+.line .star::before{
+    background-color: #ffffff;
+}
+.star::after{
+    background-color: #ffffff;
+}
